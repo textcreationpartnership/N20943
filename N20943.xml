@@ -108,20 +108,22 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:027505_0000_0FD71DC88F6A3A60"/>
-            <pb facs="tcp:027505_0001_0FD71DCA0821D538" rendition="simple:additions"/>
+            <pb facs="unknown:027505_0000_0FD71DC88F6A3A60"/>
+            <pb facs="unknown:027505_0001_0FD71DCA0821D538"
+                rendition="simple:additions"/>
             <p>THE CONSTITUTION OF THE COMPANY OF PRINTERS, OF PHILADELPHIA.</p>
             <p>PHILADELPHIA: Printed by WILLIAM W. WOODWARD, Franklin's-Head, N<hi rend="sup">o</hi>. 36, Chesnut-Street, South-Side. 1794.</p>
          </div>
       </front>
       <body>
          <div type="constitution">
-            <pb facs="tcp:027505_0002_0FD71DCB89EBF290" rendition="simple:additions"/>
-            <pb facs="tcp:027505_0003_0FD71DCD49997560"/>
+            <pb facs="unknown:027505_0002_0FD71DCB89EBF290"
+                rendition="simple:additions"/>
+            <pb facs="unknown:027505_0003_0FD71DCD49997560"/>
             <head>THE CONSTITUTION.</head>
             <p>ASSURED that the interests of every profession, depend, in a high degree, on the union and co-operation of its members; impressed with the necessity of associating for the purpose of securing those advantages, which are at present attached to the Printing Business, as well as for the purpose of extending them; and persuaded that such association will conduce to insure the harmony and good fellowship of those by whom it is composed; We, the subscribers, Printers of the City of Philadelphia, do hereby constitute ourselves a society, under the name of the COMPANY OF PHILADELPHIA PRINTERS.</p>
             <div n="1" type="article">
-               <pb n="4" facs="tcp:027505_0004_0FD71DCFF0EA8D70"/>
+               <pb n="4" facs="unknown:027505_0004_0FD71DCFF0EA8D70"/>
                <head>ARTICLE I.</head>
                <p>THE Company shall be formed of such Printers of the city and liberties, as are present at the adoption of this constitution; of such as shall join the Company within one month subsequent to said adoption, and of such as shall be hereafter elected in conformity to the third article.</p>
             </div>
@@ -142,7 +144,7 @@
                <p>THERE shall be four regular meetings in every year, viz. on the second Tuesday of January, April, July, and October, and on such other days as the Company shall fix by ad<g ref="char:EOLhyphen"/>journment<g ref="char:punc">▪</g> or as shall be fixed by the said meetings.</p>
             </div>
             <div n="6" type="article">
-               <pb n="5" facs="tcp:027505_0005_0FD71DD1BB678CD0"/>
+               <pb n="5" facs="unknown:027505_0005_0FD71DD1BB678CD0"/>
                <head>ARTICLE VI.</head>
                <p>SIX members shall be sufficient to proceed to business.</p>
             </div>
@@ -163,7 +165,7 @@
                <p>IT shall be the duty of the secretary, under the direction of the President or Chairman, to keep a fair statement of the proceedings of the Company. In the absence of the Secretary, a Secretary pro tempore shall be chosen.</p>
             </div>
             <div n="11" type="article">
-               <pb n="6" facs="tcp:027505_0006_0FD71DD363BCB650"/>
+               <pb n="6" facs="unknown:027505_0006_0FD71DD363BCB650"/>
                <head>ARTICLE XI.</head>
                <p>IT shall be the duty of the Treasurer, to receive such sums of money as shall accrue to the Company; to pay the same on the order of the Pesident or Chairman, and to keep a fair statement of the funds of the Company, sub<g ref="char:EOLhyphen"/>ject to the inspection of any member.</p>
             </div>
@@ -180,7 +182,7 @@
                <p>WHEN the Company are organized, they shall have power to regulate the prices at which its members shall execute printing work; to determine the terms of employ<g ref="char:EOLhyphen"/>ing journeymen; to fix penalties for the violation of their regulations; and, in general to adopt such rules as may be considered conducive to the prosperity of the printing business.</p>
             </div>
             <div n="15" type="article">
-               <pb n="7" facs="tcp:027505_0007_0FD71DD602C56960"/>
+               <pb n="7" facs="unknown:027505_0007_0FD71DD602C56960"/>
                <head>ARTICLE XV.</head>
                <p>ANY member may withdraw from the Company, by re<g ref="char:EOLhyphen"/>moval from the city; by a relinquishment of the Printing business; or, by signifying his disposition thereto at a re<g ref="char:EOLhyphen"/>gular meeting: provided, that, in the last instance, he do not cease to be a member until the next regular meeting; and also, provided that on such secession he place in the hands of the treasurer, the sum of ten pounds, for the use of the Company: should, however, two thirds of the members present dispense with the payment of this sum, it shall not be demanded.</p>
             </div>
@@ -203,7 +205,7 @@
             </div>
          </div>
          <div type="list_of_names">
-            <pb n="8" facs="tcp:027505_0008_0FD71DD6CB86C288"/>
+            <pb n="8" facs="unknown:027505_0008_0FD71DD6CB86C288"/>
             <head>NAMES.</head>
             <list>
                <item>W. YOUNG,</item>
